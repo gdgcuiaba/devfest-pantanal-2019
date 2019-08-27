@@ -5,18 +5,18 @@
     "blog": "https://medium.com/gdg-cuiaba",
     "url": "http://gdgcuiaba.com/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-11-30T08:00:00-04:00",
+  "endDate": "2019-11-30T20:00:00-04:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevFestPantanal19",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "pt-BR"
   },
-  "hashtag": "DevFest17",
-  "disabledSchedule": false,
+  "hashtag": "DevFestPantanal19",
+  "disabledSchedule": true,
   "navigation": [
     {
       "route": "home",
@@ -24,24 +24,14 @@
       "label": "Home"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Palestrantes"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Agenda"
-    },
-    {
       "route": "team",
       "permalink": "/team/",
-      "label": "Equipe"
+      "label": "Organização"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "O evento sobre tecnologias Google do Pantanal!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"

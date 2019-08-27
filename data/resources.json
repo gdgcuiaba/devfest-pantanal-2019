@@ -1,49 +1,49 @@
 {
-	"title": "GDG DevFest Season 2019",
-	"description": "Be a hero. Be a GDG!",
+	"title": "GDG DevFest Pantanal 2019",
+	"description": "O evento sobre tecnologias Google do Pantanal!",
 	"image": "images/social-share.jpg",
 	"keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-	"dates": "30 de novembro, 2019",
+	"dates": "30 de novembro 2019",
 	"partnershipProposition": "https://bit.ly/dfua17-partners",
 	"share": "Compartilhe",
 	"followUs": "Siga nos",
 	"emailUs": "Envie-nos um e-mail",
-	"partnershipResources": "Partnership Resources",
-	"eventResources": "Event Resources",
-	"buyTicket": "Compar Ingressos",
-	"viewHighlights": "View Highlights",
-	"offlineMessage": "You can still work offline.",
-	"cachingComplete": "Caching complete! Future visits will work offline.",
-	"newVersionAvailable": "A new version of this app is available.",
-	"refresh": "Refresh",
-	"position": "Position",
-	"country": "Country",
-	"time": "Time",
+	"partnershipResources": "Recursos para Parceiros",
+	"eventResources": "Recursos do Evento",
+	"buyTicket": "Comprar Ingressos",
+	"viewHighlights": "Ver Destaques",
+	"offlineMessage": "Ainda irá funcionar offline.",
+	"cachingComplete": "Caching completo! Futuras visitas aqui funcionar offline.",
+	"newVersionAvailable": "Uma nova versão do app está disponível.",
+	"refresh": "Atualizar",
+	"position": "Posição",
+	"country": "País",
+	"time": "Tempo",
 	"faq": "/data/faq.md",
 	"cod": "/data/cod.md",
 	"mySchedule": {
-		"title": "My Schedule",
-		"browseSession": "Browse sessions"
+		"title": "Minha Agenda",
+		"browseSession": "Sessões de navegação"
 	},
-	"codeOfConduct": "Code of Conduct",
+	"codeOfConduct": "Código de Conduta",
 	"aboutBlock": {
 		"title": "O que você precisa saber antes de perguntar.",
 		"callToAction": {
 			"featuredSessions": {
-				"description": "O GDG DevFest Cuiabá une os especialistas de classe mundial em tecnologias Android, Web e Cloud, serão 3 trilhas com seessões de palestras e workshops.",
-				"label": "Explore featured session",
-				"link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+				"description": "O GDG DevFest Pantanal que acontece em Cuiabá une especialistas em tecnologias Mobile, Web, Cloud, DevOps e IoT. Serão 3 trilhas com sessões de challenges, palestras e workshops.",
+				"label": "Conteúdo em destaque",
+				"link": ""
 			},
 			"howItWas": {
-				"description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-				"label": "See how it was in 2016",
-				"youtubeId": "TdpbgRgz6eE"
+				"description": "O Google I/O Extended Cuiabá (também organizado pelo GDG Cuiabá) foi um sucesso com mais de 250 participantes em uma atfmosfera de networking e conhecimento fora do comum.",
+				"label": "Veja como foi em 2018",
+				"youtubeId": ""
 			}
 		},
 		"statisticsBlock": {
 			"attendees": {
 				"label": "Participantes",
-				"number": "500"
+				"number": "+300"
 			},
 			"days": {
 				"label": "Dia",
@@ -51,7 +51,7 @@
 			},
 			"sessions": {
 				"label": "Palestras",
-				"number": "30"
+				"number": "+15"
 			},
 			"tracks": {
 				"label": "Trilhas",
@@ -61,10 +61,10 @@
 	},
 	"ticketsBlock": {
 		"title": "Ingressos",
-		"ticketsDetails": "Os ingressos concedem acesso a todas as seções da conferência e coffee breaks.",
-		"soldOut": "You missed it!",
-		"notAvailableYet": "Not available yet",
-		"save": "Save ${discount}% today"
+		"ticketsDetails": "*O ingresso garante o acesso a todas as áreas do evento incluindo experimentos e alimentação (welcome coffee). Obrigatório apresentação de documento com foto.",
+		"soldOut": "Acabou :(",
+		"notAvailableYet": "Não disponível ainda",
+		"save": "Ganhe ${discount}% de desconto"
 	},
 	"partnersBlock": {
 		"title": "Patrocinadores",
@@ -78,48 +78,48 @@
 		"toast": "Entraremos em contato em breve!"
 	},
 	"featuredVideos": {
-		"title": "DFUA'16 featured videos",
+		"title": "Vídeos em Destaques",
 		"callToAction": {
-			"label": "See all videos",
-			"link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+			"label": "Veja todos os vídeos",
+			"link": ""
 		}
 	},
 	"blog": {
-		"published": "Published",
-		"suggested": "Up next"
+		"published": "Publicado",
+		"suggested": "Ver próximo"
 	},
 	"latestPostsBlock": {
-		"title": "The latest news",
+		"title": "Últimas notícias",
 		"callToAction": {
-			"label": "View all stories",
+			"label": "Ver todas notícias",
 			"link": "/blog/"
 		}
 	},
 	"speakers": {
-		"skills": "Skills",
-		"previousYears": "Years",
-		"previousYear": "Year"
+		"skills": "Habilidades",
+		"previousYears": "Anos",
+		"previousYear": "Ano"
 	},
 	"speakersBlock": {
-		"title": "Rockstar speakers",
+		"title": "Palestrantes",
 		"callToAction": {
 			"label": "Veja todos os palestrantes",
 			"link": "/speakers/"
 		}
 	},
 	"previousSpeakersBlock": {
-		"title": "Previous speakers",
+		"title": "Palestantes anteriores",
 		"callToAction": {
-			"label": "View all",
+			"label": "Ver todos",
 			"link": "/previous-speakers/"
 		}
 	},
 	"galleryBlock": {
-		"title": "#dfua16 highlights",
-		"description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+		"title": "Destaques do #GoogleIO18ExtendedCuiaba",
+		"description": "Veja algumas das fotos que rolou no evento Google I/O Extended Cuiabá 2018.",
 		"callToAction": {
-			"label": "See all photos",
-			"link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+			"label": "Ver todas fotos",
+			"link": ""
 		}
 	},
 	"mapBlock": {
@@ -127,55 +127,55 @@
 	},
 	"subscribeBlock": {
 		"callToAction": {
-			"description": "Get notified about the important conference updates",
-			"label": "Subscribe"
+			"description": "Seja notificado em tempo-real sobre comunicados importantes.",
+			"label": "Assine"
 		},
-		"emailAddress": "Email",
-		"firstName": "First Name",
-		"lastName": "Last Name",
-		"formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
-		"emailRequired": "Please enter a valid email address.",
+		"emailAddress": "E-mail",
+		"firstName": "Primeiro Nome",
+		"lastName": "Último Nome",
+		"formTitle": "Receba comunicados ou notícias importantes do DevFest Pantanal 2019 diretamente no seu e-mail.",
+		"emailRequired": "Por favor, digite um endereço de e-mail válido.",
 		"close": "Fechar",
-		"generalError": "An error has occurred. Please, try again later.",
-		"toast": "Successfully subscribed!"
+		"generalError": "Um erro ocorreu. Por favor, tente novamente mais tarde.",
+		"toast": "Você está conectado ao DevFest Pantanal 2019!"
 	},
 	"team": {
-		"description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+		"description": "O Google é conhecido em todo o mundo. Todos estão \"pesquisando\", verificando \"mapas\" e se comunicando no \"Gmail\". Para usuários simples, eles são serviços que simplesmente funcionam, mas não para nós. Os desenvolvedores veem muito mais: APIs, problemas de escalabilidade, pilhas complexas de tecnologia. E é disso que trata o GDG Cuiabá.<br><br> Que é uma comunidade de geeks aberta e voluntária que cria projetos interessantes e compartilha experiência com as tecnologias do Google com paixão.<br><br> Nosso objetivo é organizar o espaço para conectar os melhores especialistas do setor ao público do cerrado brasileiro para impulsionar o desenvolvimento de TI."
 	},
 	"schedule": {
-		"saveSessionsSignedOut": "Sign in to save sessions"
+		"saveSessionsSignedOut": "Faça login para salvar sua navegação"
 	},
 	"sessionDetails": {
-		"contentLevel": "Content level",
-		"viewPresentation": "View presentation",
-		"viewVideo": "View video",
+		"contentLevel": "Level do conteúdo",
+		"viewPresentation": "Ver apresentação",
+		"viewVideo": "Ver vídeo",
 		"speakers": "Palestrantes"
 	},
 	"speakerDetails": {
-		"sessions": "Sessions"
+		"sessions": "Sessões"
 	},
 	"notifications": {
-		"default": "Enable notifications",
-		"enabled": "We will miss you but you can unsubscribe anytime",
-		"blocked": "We can't send you notifications right now. Please enable notifications in your browser",
-		"subscribe": "Subscribe",
-		"unsubscribe": "Unsubscribe",
+		"default": "Habilitar notificações",
+		"enabled": "Vamos sentir sua falta mas você pode se desinscrever a qualquer momento",
+		"blocked": "Não podemos te enviar notificações no momento. Por favor, primeiro habilite notificações no seu navegador primeiro",
+		"subscribe": "Assinar",
+		"unsubscribe": "Desinscrever",
 		"enable": {
-			"label": "Enable",
+			"label": "Habilitar",
 			"link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
 		},
 		"toast": {
-			"title": "Open"
+			"title": "Abrir"
 		}
 	},
 	"aboutOrganizerBlock": {
 		"image": "/images/team.jpg",
 		"blocks": [
 			{
-				"title": "Organizadores",
-				"description": "<a href='http://gdgcuiaba.com' target='_blank'>GDG Cuiabá</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+				"title": "Organização",
+				"description": "Somos parte do <a href='http://gdgcuiaba.com' target='_blank'>GDG Cuiabá</a> e apaixonados em participar dessa comunidade, espalhar conhecimento e fazer networking.",
 				"callToAction": {
-					"label": "Open team page",
+					"label": "Abrir página da organização",
 					"link": "/team"
 				}
 			},
@@ -200,21 +200,21 @@
 		]
 	},
 	"signInDialog": {
-		"alreadyHaveAccount": "You already have an account",
-		"alreadyUsed": "You've already used",
+		"alreadyHaveAccount": "Você já tem uma conta",
+		"alreadyUsed": "Já foi utilizado(a) anteriormente por alguém",
 		"signInToContinue": {
-			"part1": "Sign in with",
-			"part2": "to continue."
+			"part1": "Faça login com",
+			"part2": "para continuar."
 		}
 	},
 	"filters": {
-		"title": "Filters",
-		"results": "Results",
+		"title": "Filtros",
+		"results": "Resultados",
 		"tags": "Tags",
-		"complexity": "Complexity",
-		"clear": "Clear all"
+		"complexity": "Complexidade",
+		"clear": "Limpar todos"
 	},
 	"addToHomeScreen": {
-		"cta": "Add to Home Screen"
+		"cta": "Adicionar para Tela Inicial"
 	}
 }
