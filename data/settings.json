@@ -40,40 +40,40 @@
     },
     "blog": {
       "title": "Blog",
-      "metaDescription": "Read stories from our team",
+      "metaDescription": "Veja as últimas notícias",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "speakers": {
-      "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "title": "Palestrantes",
+      "metaDescription": "Especialistas em tecnologias Mobile, Web, Cloud, DevOps e IoT de toda a região do país.",
+      "description": "Especialistas em tecnologias Mobile, Web, Cloud, DevOps e IoT de toda a região do país.",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "previousSpeakers": {
-      "title": "Previous Speakers",
-      "metaDescription": "Check who was with us last years",
+      "title": "Palestrantes Anteriores",
+      "metaDescription": "Veja quem palestrou em eventos anteriores",
       "background": {
         "color": "#FFF"
       },
       "fontColor": "#424242"
     },
     "schedule": {
-      "title": "Schedule",
-      "metaDescription": "Choose your sessions to visit",
+      "title": "Cronograma",
+      "metaDescription": "Escolha quais palestras você vai assistir",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "team": {
-      "title": "Team",
-      "metaDescription": "Get more info about organizers",
+      "title": "Time",
+      "metaDescription": "Conheça os organizadores",
       "background": {
         "color": "#fff"
       },
@@ -81,15 +81,15 @@
     },
     "faq": {
       "title": "FAQs",
-      "metaDescription": "Find you answer right here!",
+      "metaDescription": "Encontre sua dúvida possivelmente por aqui!",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "cod": {
-      "title": "Code Of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "title": "Código de Conduta",
+      "metaDescription": "Saiba mais sobre as regras e se comportar para fazer parte da nossa comunidade",
       "background": {
         "color": "#fff"
       },
@@ -104,12 +104,12 @@
     "address": "Centro de Eventos do Pantanal",
     "pointer": {
       "latitude": -15.565715,
-      "longitude": -56.10638,
-      "zoom": 5
+      "longitude": -56.1085687,
+      "zoom": 13
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": -15.565715,
+      "longitude": -56.1085687
     },
     "description": "Inaugurado em 2000, o espaço de 11.950 metros quadrados de área construída já abrigou mais de 3 mil eventos, atraindo mais de 4 milhões de pessoas."
   },
@@ -133,23 +133,11 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/pt-BR/gdgcuiaba/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.facebook.com/gdgcuiaba/"
       }
     ],
     "share": [
@@ -163,22 +151,22 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "contato@devfestpantanal.com",
   "signInProviders": {
     "providersData": [
       {
         "name": "google",
-        "label": "Sign in with Google",
+        "label": "Entre com Google",
         "url": "https://accounts.google.com"
       },
       {
         "name": "facebook",
-        "label": "Sign in with Facebook",
+        "label": "Entre com Facebook",
         "url": "https://www.facebook.com"
       },
       {
         "name": "twitter",
-        "label": "Sign in with Twitter",
+        "label": "Entre com Twitter",
         "url": "https://twitter.com"
       }
     ],
@@ -202,7 +190,7 @@
       "itemsCount": 6
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 3
     }
   }
 }
