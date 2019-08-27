@@ -135,7 +135,8 @@
 		"lastName": "Último Nome",
 		"formTitle": "Receba comunicados ou notícias importantes do DevFest Pantanal 2019 diretamente no seu e-mail.",
 		"emailRequired": "Por favor, digite um endereço de e-mail válido.",
-		"close": "Fechar",
+    "close": "Fechar",
+    "subscribe": "Assinar",
 		"generalError": "Um erro ocorreu. Por favor, tente novamente mais tarde.",
 		"toast": "Você está conectado ao DevFest Pantanal 2019!"
 	},
