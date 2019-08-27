@@ -1,6 +1,15 @@
 {
 	"blog": {},
-	"gallery": [],
+	"gallery": [
+    "https://firebasestorage.googleapis.com/v0/b/devfest-cuiaba.appspot.com/o/images%2F_DSC6826.jpg?alt=media&token=0a4f8cba-5b0d-4d92-98ec-1ec095e82683",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-cuiaba.appspot.com/o/images%2Fimage1.png?alt=media&token=795e667b-170a-4b99-9a6c-329eaab25a63",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-cuiaba.appspot.com/o/images%2Fimage2.png?alt=media&token=af8bea63-bfe6-44cf-8151-09c2d8d6ef5d",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-cuiaba.appspot.com/o/images%2Fimage3.png?alt=media&token=5e9d601c-48af-4fae-945f-ade3aa5ef0fb",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-cuiaba.appspot.com/o/images%2Fimage5.png?alt=media&token=4ff6cf37-68ce-4cd3-a0df-d0d3ecbf44b4",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-cuiaba.appspot.com/o/images%2Fimage6.png?alt=media&token=31c502e9-70ba-4263-9e6f-2ddd0e5a2df3",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-cuiaba.appspot.com/o/images%2Fimage7.png?alt=media&token=9ad5425c-501e-415c-b588-c2072d78f894",
+    "https://firebasestorage.googleapis.com/v0/b/devfest-cuiaba.appspot.com/o/images%2Fimage4.png?alt=media&token=146bc479-a8bd-4c78-a1bf-04ba6de2cb0a"
+  ],
 	"notifications": {
 		"config": {
 			"icon": "",
