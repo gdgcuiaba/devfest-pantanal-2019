@@ -199,9 +199,9 @@
 					"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-cuiaba.appspot.com/o/alvaro.png?alt=media&token=3828f062-03bd-424f-86cf-f5a462045982",
 					"socials": [
 						{
-							"icon": "facebook",
-							"link": "https://www.facebook.com/alvarowolfx",
-							"name": "Facebook"
+							"icon": "twitter",
+							"link": "https://twitter.com/alvaroviebrantz",
+							"name": "Twitter"
 						},
 						{
 							"icon": "github",
@@ -217,10 +217,15 @@
 					"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-cuiaba.appspot.com/o/thais.jpeg?alt=media&token=2d9d3e6d-2667-492d-b801-994588a671d1",
 					"socials": [
 						{
-							"icon": "facebook",
-							"link": "https://www.facebook.com/buen0thais",
-							"name": "Facebook"
-            }
+							"icon": "twitter",
+							"link": "https://twitter.com/thaisbuen0",
+							"name": "Twitter"
+            },
+						{
+							"icon": "github",
+							"link": "https://github.com/tfbbueno",
+							"name": "GitHub"
+						}
 					],
 					"order": 1
         },
@@ -266,7 +271,7 @@
 					"order": 3
 				},
 				{
-					"name": "João Dantas",
+					"name": "João Vitor Dantas",
 					"photo": "/joao.jpeg",
 					"photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-cuiaba.appspot.com/o/joao.jpeg?alt=media&token=c02b0805-9a6f-48b1-8865-923266b60a35",
 					"socials": [
@@ -274,7 +279,12 @@
 							"icon": "facebook",
 							"link": "https://www.facebook.com/joaovitor.D.S",
 							"name": "Facebook"
-            }
+            },
+            {
+							"icon": "linkedin",
+							"link": "https://www.linkedin.com/in/jo%C3%A3o-vitor-dantas-3b7818159/",
+							"name": "Linkedin"
+						}
 					],
 					"order": 4
 				},
@@ -287,7 +297,12 @@
 							"icon": "facebook",
 							"link": "https://www.facebook.com/profile.php?id=100014636020798",
 							"name": "Facebook"
-            }
+            },
+            {
+							"icon": "linkedin",
+							"link": "https://www.linkedin.com/in/miguel-r-j-martins-469a06180/",
+							"name": "Linkedin"
+						}
 					],
 					"order": 5
 				}
@@ -299,32 +314,35 @@
 		{
 			"available": true,
 			"currency": "R$",
-      "ends": "20 de Setembro",
-      "inDemand": false,
-			"info": "Ou até acabar o lote",
-			"name": "Lote Promocional",
-      "price": 30,
+      "ends": "30 de Setembro",
+      "inDemand": true,
+			"info": "1° Lote",
+			"name": "Early Bird",
+      "price": 50,
       "regular": true,
 			"soldOut": false,
 			"url": "#"
-		},
+    },
 		{
-			"available": true,
+			"available": false,
 			"currency": "R$",
-      "inDemand": true,
-			"info": "Necessário apresentar comprovante da meia-entrada",
-			"name": "Meia Entrada",
-      "price": 40,
+      "ends": "31 de Outubro",
+      "inDemand": false,
+			"info": "2° Lote",
+			"name": "Lazy Bird",
+      "price": 60,
       "regular": true,
 			"soldOut": false,
 			"url": "#"
     },
     {
-			"available": true,
+			"available": false,
 			"currency": "R$",
+      "ends": "30 de Novembro",
       "inDemand": false,
-			"name": "Inteira",
-      "price": 80,
+			"info": "3° Lote",
+			"name": "Crazy Bird",
+      "price": 70,
       "regular": true,
 			"soldOut": false,
 			"url": "#"
