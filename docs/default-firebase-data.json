@@ -142,61 +142,7 @@
 			"title": "Mesa Redonda"
 		}
 	},
-	"speakers": {
-    "resul_caner__yildirim": {
-			"badges": [
-				{
-					"description": "UI/UX Google Developer Expert",
-					"link": "https://developers.google.com/experts/people/resul-caner-y-ld-r-m.html",
-					"name": "gde"
-				},
-				{
-					"description": "Google Developers Group Istanbul",
-					"link": "https://developers.google.com/groups/chapter/100514812580249787371/",
-					"name": "gdg"
-				}
-			],
-			"bio": "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android. He works at InnovationBox, a design agency in Istanbul making and creating apps that users love. Caner has been an organiser of GDG Istanbul since 2013, organising, participating, and speaking at events.",
-			"company": "InnovationBox",
-			"companyLogo": "/images/logos/gdg-lviv.svg",
-			"companyLogoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-			"country": "Istanbul, Turkey",
-			"featured": false,
-			"name": "Resul Caner  Yildirim",
-			"photo": "/images/people/resul_caner_yildirim.jpg",
-			"photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/resul caner_yildirim.jpg",
-			"shortBio": "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing...",
-			"socials": [
-				{
-					"icon": "twitter",
-					"link": "https://twitter.com/protechman",
-					"name": "Twitter"
-				},
-				{
-					"icon": "gplus",
-					"link": "https://plus.google.com/+rcaneryildirim",
-					"name": "Google+"
-				},
-				{
-					"icon": "facebook",
-					"link": "https://facebook.com/r.caner.yildirim",
-					"name": "Facebook"
-				},
-				{
-					"icon": "website",
-					"link": "https://dribbble.com/protechman",
-					"name": "Website"
-				},
-				{
-					"icon": "linkedin",
-					"link": "https://linkedin.com/in/protechman",
-					"name": "LinkedIn"
-				}
-			],
-			"order": 19,
-			"title": "User Experience Expert"
-		}
-	},
+	"speakers": {},
 	"team": [
 		{
 			"members": [
