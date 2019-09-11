@@ -25,18 +25,25 @@
 			"logos": [
 				{
 					"order": 0,
-					"logoUrl": "../images/logos/google-developers.png",
-					"name": "Google Developers",
-					"url": "https://developers.google.com/"
+					"logoUrl": "../images/logos/google.png",
+					"name": "Google",
+					"url": "https://google.com/"
+        },
+        {
+					"order": 5,
+					"logoUrl": "../images/logos/sebrae.png",
+					"name": "Sebrae",
+					"url": "http://www.sebrae.com.br/sites/PortalSebrae"
+        },
+        {
+					"order": 10,
+					"logoUrl": "../images/logos/devmt.jpg",
+					"name": "DevMT",
+					"url": "https://www.meetup.com/pt-BR/DevMatoGrosso/"
 				}
 			],
 			"order": 0,
 			"title": "Parceiros"
-		},
-		{
-			"logos": [],
-			"order": 1,
-			"title": "Apoio"
 		}
 	],
 	"schedule": {

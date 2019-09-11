@@ -144,12 +144,17 @@
         noink
       >
         {% for nav in navigation %}
-        <paper-tab name="{$ nav.route $}" class="nav-item" link>
-          <a href="{$ nav.permalink $}" layout vertical center-center>{$ nav.label $}</a>
-        </paper-tab>
+          {% if nav.newTab %}
+          <a href="{$ nav.permalink $}" target="_blank" rel="noopener noreferrer" ga-on="click"
+          ga-event-category="call4paper button" ga-event-action="interest_click">
+            <paper-button class="buy-button">{$ nav.label $}</paper-button>
+          </a>
+          {% else %}
+          <paper-tab name="{$ nav.route $}" class="nav-item" link>
+            <a href="{$ nav.permalink $}" layout vertical center-center>{$ nav.label $}</a>
+          </paper-tab>
+          {% endif %}
         {% endfor %}
-
-        <paper-tab class="signin-tab" on-tap="signIn" link hidden$="[[user.signedIn]]">{$ signIn $}</paper-tab>
 
         <a href$="[[_getTicketUrl(tickets)]]" target="_blank" rel="noopener noreferrer" ga-on="click"
            ga-event-category="ticket button" ga-event-action="buy_click">
