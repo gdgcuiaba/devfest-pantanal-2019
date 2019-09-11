@@ -142,7 +142,84 @@
 			"title": "Mesa Redonda"
 		}
 	},
-	"speakers": {},
+	"speakers": {
+    "douglas_augusto": {
+      "badges": [
+        {
+          "description": "Google Developer Expert em Cloud",
+          "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-douglas_augusto_ferreira_araujo",
+          "name": "gde"
+        }
+      ],
+      "bio": "Douglas Augusto é apaixonado por Computação em Nuvem e Aprendizado de Máquina, trabalha atualmente como Arquiteto em Nuvem na Avenue Code, uma empresa norte americana que provê consultoria de tecnologias para grandes empresas. Durante sua carreira, ele participou em projetos inovadores para clientes como Coca Cola, Fiat, Jeep, Chrysler, Dodge, RAM, entre outros. Ele é Google Developer Expert (GDE) em Google Cloud Platform e é mentor nas áreas de Computação em Nuvem e Aprendizado de Máquina no programa Google Launchpad, o programa de aceleração de Startups do Google.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Belo Horizonte, Minas Gerais, Brasil",
+      "featured": false,
+      "name": "Douglas Augusto",
+      "photo": "",
+      "photoUrl": "https://lh4.googleusercontent.com/-l5O1HmBJ2vA/AAAAAAAAAAI/AAAAAAAABUc/QhgNse1pdhk/s172-c/photo.jpg",
+      "shortBio": "Ele é Google Developer Expert (GDE) em Google Cloud Platform e é mentor nas áreas de Computação em Nuvem...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dougasaperson",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/douglasaugusto",
+          "name": "GitHub"
+        },
+        {
+          "icon": "website",
+          "link": "https://douglasaugus.to/",
+          "name": "Website"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/douglasaugusto",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 5,
+      "title": "Expert em Cloud"
+    },
+    "bianca_ximenes": {
+      "badges": [
+        {
+          "description": "Google Developer Expert em Machine Learning",
+          "link": "https://google-developers.appspot.com/community/experts/directory/profile/profile-bianca_ximenes",
+          "name": "gde"
+        }
+      ],
+      "bio": "Bianca é extremamente curiosa e gosta de entender como as coisas funcionam. É consultora independente da Tecnora e doutoranda em Ciência da Computação pela UFPE. Seu trabalho aborda o HCAI e as repercussões éticas da IA e ML na sociedade. Ela aplica esse conhecimento na criação responsável de produtos digitais inteligentes. Ela é formada em Economia e mestre em Ciência da Computação, e também é CSM e PSPO. Sua experiência de trabalho abrange análises administrativas e bancárias, gerenciamento de projetos e inovação Agile, desenvolvimento de produtos e ensino. Ela produziu pesquisas para as principais conferências do mundo e orientou mais de 150 startups. Ela acredita firmemente na ciência e sua conexão com o desenvolvimento de produtos bem-sucedidos no mundo real. Ela adora cachorros-quentes e vinho tinto, discutindo a convivência humano-robô-IA, e sua coleção Lego vai surpreendê-lo.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Recife, Pernambuco, Brasil",
+      "featured": false,
+      "name": "Bianca Ximenes",
+      "photo": "",
+      "photoUrl": "https://lh5.googleusercontent.com/-9N_NMIoHDaA/AAAAAAAAAAI/AAAAAAAAC7c/YRXu9KvsA7w/s172-c/photo.jpg",
+      "shortBio": "Bianca é consultora independente da Tecnora e doutoranda em Ciência da Computação pela UFPE",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/biancabianq",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://br.linkedin.com/in/biancaximenes",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 10,
+      "title": "Expert em Machine Learning"
+    }
+  },
 	"team": [
 		{
 			"members": [
