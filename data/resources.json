@@ -61,7 +61,7 @@
 	},
 	"ticketsBlock": {
 		"title": "Ingressos",
-		"ticketsDetails": "*O ingresso garante o acesso a todas as áreas do evento incluindo experimentos e alimentação (welcome coffee). Obrigatório apresentação de documento com foto.",
+		"ticketsDetails": "*O ingresso garante o acesso a todas as áreas do evento incluindo experimentos e alimentação (coffee break). Obrigatório apresentação de documento com foto.",
 		"soldOut": "Acabou :(",
 		"notAvailableYet": "Não disponível ainda",
 		"save": "Ganhe ${discount}% de desconto"

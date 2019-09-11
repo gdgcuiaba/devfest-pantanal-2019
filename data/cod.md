@@ -23,6 +23,7 @@ Aos que presenciem o assédio a qualquer membro da comunidade, espera-se que ten
 - [Site do GDG Cuiabá](http://www.gdgcuiaba.com)
 - [Facebook GDG Cuiabá](https://www.facebook.com/gdgcuiaba) 
 - [E-mail GDG Cuiabá](mailto:gdgcuiaba@gmail.com)
+- [Meetup GDG Cuiabá](https://www.meetup.com/gdgcuiaba/)
 
 #### DevMT
 
@@ -30,4 +31,3 @@ Aos que presenciem o assédio a qualquer membro da comunidade, espera-se que ten
 - [Slack DevMT](http://devmt.herokuapp.com) 
 - [Meetup DevMT](http://www.meetup.com/devmatogrosso)
 - [Facebook DevMT](https://www.facebook.com/devmatogrosso)
-- [Meetup GDG Cuiabá](https://www.meetup.com/gdgcuiaba/)

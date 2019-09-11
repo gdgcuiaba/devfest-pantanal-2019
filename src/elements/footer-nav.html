@@ -25,10 +25,14 @@
       }
 
       .footer-logo {
+        display: block;
         margin: 10px 30px 0 0;
-        height: 24px;
+        height: 25px;
         width: 120px;
         float: left;
+        background-color: var(--default-primary-color);
+        transition: background-color var(--animation);
+        -webkit-mask: url('/images/organizer-logo.png') no-repeat;
       }
 
       a {
@@ -64,15 +68,7 @@
 
     <div class="nav-inline" layout flex>
 
-      <a href="{$ organizer.url $}" target="_blank" rel="noopener noreferrer">
-        <plastic-image
-          class="footer-logo"
-          srcset="../../images/organizer-logo.png"
-          sizing="contain"
-          alt="{$ organizer.name $}"
-          lazy-load
-        ></plastic-image>
-      </a>
+      <a href="{$ organizer.url $}" target="_blank" rel="noopener noreferrer" class="footer-logo"></a>
 
       <div class="copyright">
         &copy; [[_getYear()]] Based on <a href="https://github.com/gdg-x/hoverboard" target="_blank" rel="noopener noreferrer">Project

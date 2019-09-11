@@ -321,7 +321,7 @@
       "price": 50,
       "regular": true,
 			"soldOut": false,
-			"url": "#"
+			"url": "http://bit.ly/devfest-pantantal-inscrever"
     },
 		{
 			"available": false,
@@ -346,6 +346,19 @@
       "regular": true,
 			"soldOut": false,
 			"url": "#"
+    },
+    {
+			"available": true,
+			"currency": null,
+      "ends": "30 de Novembro",
+      "inDemand": false,
+			"info": "Mínimo de 10 pessoas",
+			"name": "Grupo de Estudante OU Caravanas",
+      "price": null,
+      "regular": true,
+			"soldOut": false,
+      "url": "mailto:gdgcuiaba@gmail.com",
+      "actionLabel": "Entre em Contato"
     }
 	],
 	"triggers": {
