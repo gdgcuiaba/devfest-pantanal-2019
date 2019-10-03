@@ -24,6 +24,11 @@
       "label": "Home"
     },
     {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Agenda"
+    },
+    {
       "route": "team",
       "permalink": "/team/",
       "label": "Organização"
@@ -32,11 +37,6 @@
       "newTab": true,
       "permalink": "https://bit.ly/devfest-pant-c4p",
       "label": "Call4Papers"
-    },
-    {
-      "newTab": true,
-      "permalink": "https://bit.ly/devfest-helper",
-      "label": "Call4Helpers"
     }
   ],
   "heroSettings": {
