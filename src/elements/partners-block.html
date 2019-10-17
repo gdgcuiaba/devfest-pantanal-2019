@@ -81,7 +81,7 @@
       </template>
 
       <paper-button class="cta-button animated icon-right"
-        on-tap="_addPotentialPartner">
+        on-tap="_redirectToMediaKit">
         <span>{$ partnersBlock.button $}</span>
         <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
       </paper-button>
@@ -139,6 +139,10 @@
             this.dispatch(partnersActions.addPartner(data));
           },
         });
+      }
+
+      _redirectToMediaKit() {
+        window.open('{$ partnersBlock.mediaKitUrl $}', '_blank');
       }
 
       _partnerAddingChanged(newPartnerAdding, oldPartnerAdding) {

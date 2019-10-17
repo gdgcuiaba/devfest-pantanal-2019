@@ -68,7 +68,8 @@
 	},
 	"partnersBlock": {
 		"title": "Patrocinadores",
-		"button": "Seja um Patrocinador",
+    "button": "Seja um Patrocinador",
+    "mediaKitUrl": "http://bit.ly/devfest-pantanal-midiakit",
 		"form": {
 			"title": "Seja um Patrocinador!",
 			"submitLabel": "Enviar",
