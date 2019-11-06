@@ -43,7 +43,7 @@
 		"statisticsBlock": {
 			"attendees": {
 				"label": "Participantes",
-				"number": "+300"
+				"number": "+350"
 			},
 			"days": {
 				"label": "Dia",
@@ -51,7 +51,7 @@
 			},
 			"sessions": {
 				"label": "Palestras",
-				"number": "+15"
+				"number": "+20"
 			},
 			"tracks": {
 				"label": "Trilhas",
@@ -61,7 +61,9 @@
 	},
 	"ticketsBlock": {
 		"title": "Ingressos",
-		"ticketsDetails": "*O ingresso garante o acesso a todas as áreas do evento incluindo experimentos e alimentação (coffee break). Obrigatório apresentação de documento com foto.",
+    "ticketsDetails": "O ingresso garante o acesso a todas as áreas do evento incluindo experimentos e alimentação (coffee break). Obrigatório apresentação de documento com foto.",
+    "lunchDetails": "No dia do evento teremos apenas 1 hora de intervalo. Para um completa experiência, sugerimos que você adquira o ticket do almoço antecipadamente junto com o ingresso. Não garantimos a venda de almoço no dia do evento.",
+    "moreDetails": "Mais informações sobre os ingressos e o almoço, acesse nossa página de vendas.",
 		"soldOut": "Acabou :(",
 		"notAvailableYet": "Não disponível ainda",
 		"save": "Ganhe ${discount}% de desconto"

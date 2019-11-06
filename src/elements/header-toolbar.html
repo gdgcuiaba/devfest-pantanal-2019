@@ -146,7 +146,7 @@
         {% for nav in navigation %}
           {% if nav.newTab %}
           <a href="{$ nav.permalink $}" target="_blank" rel="noopener noreferrer" ga-on="click"
-          ga-event-category="call4paper button" ga-event-action="interest_click">
+          ga-event-category="button" ga-event-action="interest_click">
             <paper-button class="buy-button">{$ nav.label $}</paper-button>
           </a>
           {% else %}
